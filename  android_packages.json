@@ -96,28 +96,28 @@
             "platform" : "android",
             "probider_name":"ironSource",
             "provider_url" : "https://www.ironsrc.com/",
-            "documentation" : "",
-            "resource_identifiers" : [""],
+            "documentation" : "https://developers.ironsrc.com/ironsource-mobile/android/android-sdk/#step-5",
+            "resource_identifiers" : ["com.ironsource.sdk"],
+            "description" : ""
+        },
+        {
+            "name" : "ironSource supersonic: Ad mediation",
+            "type" : "mediation",
+            "platform" : "android",
+            "probider_name":"ironSource",
+            "provider_url" : "https://www.ironsrc.com/",,
+            "documentation" : "https://developers.ironsrc.com/ironsource-mobile/android/getting-started-ironsource-android-sdk-6-4/#step-1",
+            "resource_identifiers" : ["com.ironsource.mediationsdk", ""],
             "description" : ""
         },
         {
             "name" : "",
             "type" : "",
             "platform" : "",
-            "probider_name":"",
+            "probider_name":"MoPub",
             "provider_url" : "",
             "documentation" : "",
-            "resource_identifiers" : [""],
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "type" : "",
-            "platform" : "",
-            "probider_name":"",
-            "provider_url" : "",
-            "documentation" : "",
-            "resource_identifiers" : [""],
+            "resource_identifiers" : ["com.mopu.common"],
             "description" : ""
         },
         {
