@@ -1,0 +1,45 @@
+{
+    "privacy" :[
+        {
+            "name" : "",
+            "type" : "",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifier" : "",
+            "description" : ""
+        },
+        {
+            "name" : "Google <obile Ads Consent SDK",
+            "type" : "consent",
+            "provider_url" : "https://developers.google.com/admob/android/eu-consent",
+            "documentation" : "https://developers.google.com/admob/android/eu-consent",
+            "resource_identifier" : "com.google.ads.consent",
+            "description" : "The google ads consent package for Android. "
+        },
+        {
+            "name" : "AdColony Android Tracking SDK",
+            "type" : "tracking",
+            "provider_url" : "https://www.adcolony.com/",
+            "documentation" : "https://github.com/AdColony/AdColony-Android-Tracking-SDK/wiki/Starting-the-AdColony-Tracking-SDK",
+            "resource_identifier" : "com.jirbo.adcolony.tracking",
+            "description" : "AdColony Tracking SDK"
+        },
+        {
+            "name" : "AdColony Mobile Ads SDK for Android",
+            "type" : "advertising",
+            "provider_url" : "https://www.adcolony.com/",
+            "documentation" : "https://github.com/AdColony/AdColony-Android-SDK-3/wiki",
+            "resource_identifier" : "com.adcolony.sdk",
+            "description" : "AdColony Advertising SDK"
+        },
+        {
+            "name" : "",
+            "type" : "",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifier" : "",
+            "description" : ""
+        },
+    ]
+
+}
