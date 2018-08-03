@@ -3,43 +3,173 @@
         {
             "name" : "",
             "type" : "",
+            "platform" : "",
+            "probider_name":"",
             "provider_url" : "",
             "documentation" : "",
-            "resource_identifier" : "",
+            "resource_identifiers" : [""],
             "description" : ""
         },
         {
-            "name" : "Google <obile Ads Consent SDK",
+            "name" : "Google Mobile Ads Consent SDK",
             "type" : "consent",
+            "platform" : "android",
+            "probider_name":"Google",
             "provider_url" : "https://developers.google.com/admob/android/eu-consent",
             "documentation" : "https://developers.google.com/admob/android/eu-consent",
-            "resource_identifier" : "com.google.ads.consent",
-            "description" : "The google ads consent package for Android. "
+            "resource_identifiers" : ["com.google.ads.consent"],
+            "description" : "The google ads consent package for Android."
         },
         {
             "name" : "AdColony Android Tracking SDK",
             "type" : "tracking",
+            "platform" : "android",
+            "probider_name":"AdColony",
             "provider_url" : "https://www.adcolony.com/",
             "documentation" : "https://github.com/AdColony/AdColony-Android-Tracking-SDK/wiki/Starting-the-AdColony-Tracking-SDK",
-            "resource_identifier" : "com.jirbo.adcolony.tracking",
+            "resource_identifiers" : ["com.jirbo.adcolony.tracking"],
             "description" : "AdColony Tracking SDK"
         },
         {
             "name" : "AdColony Mobile Ads SDK for Android",
             "type" : "advertising",
+            "platform" : "android",
+            "probider_name":"AdColony",
             "provider_url" : "https://www.adcolony.com/",
             "documentation" : "https://github.com/AdColony/AdColony-Android-SDK-3/wiki",
-            "resource_identifier" : "com.adcolony.sdk",
+            "resource_identifiers" : ["com.adcolony.sdk"],
             "description" : "AdColony Advertising SDK"
+        },
+        {
+            "name" : "Consentua Consent API",
+            "type" : "consent",
+            "platform" : "web",
+            "probider_name":"Consentua",
+            "provider_url" : "https://consentua.com/index.html",
+            "documentation" : "https://api.consentua.com/swagger/ui/index",
+            "resource_identifiers" : ["https://api.consentua.com"],
+            "description" : "Web API for building a GDPR complient consent application"
+        },
+        {
+            "name" : "AppLovin Mobile Ads SDK for Android",
+            "type" : "advertising",
+            "platform" : "android",
+            "probider_name":"AppLovin",
+            "provider_url" : "https://www.applovin.com/",
+            "documentation" : "https://github.com/AppLovin/Android-SDK-Demo",
+            "resource_identifiers" : ["com.applovin.sdk", "com.applovin.adview"],
+            "description" : "AppLovin Advertising SDK"
+        },
+        {
+            "name" : "Chartboost Mobile Gaming Ads SDK for Android",
+            "type" : "advertising",
+            "platform" : "Android",
+            "probider_name":"Chartboost",
+            "provider_url" : "https://www.chartboost.com/",
+            "documentation" : "https://answers.chartboost.com/en-us/",
+            "resource_identifiers" : ["com.chartboost.sdk"],
+            "description" : "Advertising SDK primarily for mobile games. Has web API as well as Android and iOS SDKs"
+        },
+        {
+            "name" : "Facebook Mobile Ads",
+            "type" : "advertising",
+            "platform" : "Android",
+            "probider_name":"Facebook",
+            "provider_url" : "https://developers.facebook.com/",
+            "documentation" : "https://developers.facebook.com/docs/audience-network/android-native/",
+            "resource_identifiers" : ["com.facebook.ads"],
+            "description" : "Native/Interstitial Ads SDK for android"
+        },
+        {
+            "name" : "inmobi Mobile Ads",
+            "type" : "advertising",
+            "platform" : "android",
+            "probider_name":"inmobi",
+            "provider_url" : "https://www.inmobi.com/sdk/",
+            "documentation" : "https://support.inmobi.com/monetize/android-guidelines/",
+            "resource_identifiers" : ["com.inmobi.sdk","com.inmobi.monetization" ,"com.inmobi.ads"],
+            "description" : "Monetisation SDK for rendering banner ads, native ads, video ads, and more ads."
+        },
+        {
+            "name" : "",
+            "type" : "advertising",
+            "platform" : "android",
+            "probider_name":"ironSource",
+            "provider_url" : "https://www.ironsrc.com/",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
         },
         {
             "name" : "",
             "type" : "",
+            "platform" : "",
+            "probider_name":"",
             "provider_url" : "",
             "documentation" : "",
-            "resource_identifier" : "",
+            "resource_identifiers" : [""],
             "description" : ""
         },
+        {
+            "name" : "",
+            "type" : "",
+            "platform" : "",
+            "probider_name":"",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
+        },
+        {
+            "name" : "",
+            "type" : "",
+            "platform" : "",
+            "probider_name":"",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
+        },
+        {
+            "name" : "",
+            "type" : "",
+            "platform" : "",
+            "probider_name":"",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
+        },
+        {
+            "name" : "",
+            "type" : "",
+            "platform" : "",
+            "probider_name":"",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
+        },
+        {
+            "name" : "",
+            "type" : "",
+            "platform" : "",
+            "probider_name":"",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
+        },
+        {
+            "name" : "",
+            "type" : "",
+            "platform" : "",
+            "probider_name":"",
+            "provider_url" : "",
+            "documentation" : "",
+            "resource_identifiers" : [""],
+            "description" : ""
+        }
     ]
 
 }
